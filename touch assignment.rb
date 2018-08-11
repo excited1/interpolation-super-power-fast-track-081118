@@ -19,7 +19,7 @@ def writing_paper (time, article==5)
   if time == "morning"
     puts "I'll go to the library and do research"
   elsif time == "evening"
-puts "read the research  #{articles} that I have"
+puts "read the research  #{article} that I have"
 end
 end
 
