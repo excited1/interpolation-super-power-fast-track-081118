@@ -15,7 +15,7 @@ def play_piano(mood)
         end
 end
 
-def writing_paper (time, article==5)
+def writing_paper (time, article=5)
   if time == "morning"
     puts "I'll go to the library and do research"
   elsif time == "evening"
