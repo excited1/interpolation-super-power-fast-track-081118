@@ -3,3 +3,6 @@ def greet (name) ="Gem"
 end greet "Sam"
 
   
+def greet (hometown) = "Boston"
+  puts hometown
+end greet "NY"
