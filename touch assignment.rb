@@ -7,7 +7,7 @@ time = "afternoon"
 
 mood = "tired"
 
-def play_piano(mood, time)
+def play_piano(mood)
   if mood =="relaxed"
     puts "I'm Mozart"
       elsif mood ==="tired"
