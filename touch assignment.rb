@@ -1,7 +1,7 @@
 require 'pry'
 my_name = "Margaretta"
 
-my_name = Margaretta
+
 
 time = "afternoon"
 
@@ -18,7 +18,7 @@ end
 def writing_paper(mood, time, article=5)
   if time == "morning"
     puts "I'll go to the library and do research"
-  elsif time == "evening"  
+  elsif time == "evening"
 puts "read the research  #{articles} that I have"
 end
 end
